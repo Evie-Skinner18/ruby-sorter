@@ -1,5 +1,5 @@
 # Welcome to the OOP version of the sorting alphabetise exercise. I want to improve this by making it so that
-# the user can input their values for the CD collection and the reverse in the terminal and 
+# the user can input their values for the CD collection and the reverse in the terminal and
 
 require_relative 'sort.rb' #Linking this file with the logic contained in sort.rb
 
